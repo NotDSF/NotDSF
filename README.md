@@ -2,4 +2,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDSF&hide=css&layout=compact&theme=dark)]()
 
-BTC Address - 33thjykAXTgpCDYcETDzHeUpnC7CuiPquh
