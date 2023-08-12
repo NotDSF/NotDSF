@@ -2,3 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDSF&hide=css&layout=compact&theme=dark)]()
 
+Contact me on Discord if interested in hiring me for work
