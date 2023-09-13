@@ -2,4 +2,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDSF&hide=css&layout=compact&theme=dark)]()
 
-Contact me on Discord if interested in hiring me for work
+Welcome to my GitHub profile, my projects are displayed below.
+You can contact me on Discord for any possible job opportunities, I do take the odd commission.
