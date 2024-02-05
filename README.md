@@ -3,4 +3,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDSF&hide=css&layout=compact&theme=dark)]()
 
 Welcome to my GitHub profile, my projects are displayed below.
-You can contact me on Discord for any possible job opportunities, I do take the odd commission.
+
+Lua > Typescript > C++ > ALL
