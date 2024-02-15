@@ -2,5 +2,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDSF&hide=css&layout=compact&theme=dark)]()
 
-Lua > Typescript > C++ > ALL
+Lua > Typescript > C++ > ALL              
 Have a commission? https://discord.gg/JwNQ6HZGFw
