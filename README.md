@@ -2,7 +2,6 @@
 _____________________________
 [![Stats](https://github-readme-stats.vercel.app/api?username=NotDSF&show_icons=true&count_private=true&theme=dark)]()
 
-Lua > Typescript > C++ > ALL              
-Need a commission? https://discord.gg/JwNQ6HZGFw
 
+JavaScript, TypeScript, Lua, Luau                              
 Owner of: https://trialguard.xyz
