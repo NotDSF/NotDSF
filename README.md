@@ -4,4 +4,4 @@ _____________________________
 
 
 JavaScript, TypeScript, Lua, Luau                              
-Owner of: https://trialguard.xyz
+Owner of: https://linkguard.cc
